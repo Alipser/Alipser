@@ -1,7 +1,9 @@
 ### Hi there, I'm Romario😄 , Welcome to My Repositories!👋
-
+<div>
 <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Alipser&hide_progress=true'>
 <img  align="left" src='https://github-readme-stats.vercel.app/api?username=Alipser&show_icons=true&theme=radical'> 
+</div>
+
 
 
 <!--
