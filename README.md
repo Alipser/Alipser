@@ -1,4 +1,4 @@
-### Hi there, I'm Romario😄 , Welcome My Repositories!👋
+### Hi there, I'm Romario😄 , Welcome to My Repositories!👋
 
 
 <img src='https://github-readme-stats.vercel.app/api?username=Alipser&show_icons=true&theme=radical'>
